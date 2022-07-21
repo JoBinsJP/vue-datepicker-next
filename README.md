@@ -1,12 +1,14 @@
-# vue-datepicker-next
+# @jobinsjp/vue3-datepicker
+
+A forked ([from](https://github.com/mengxiong10/vue-datepicker-next)) and updated version for JoBins use case.
 
 [中文版](https://github.com/mengxiong10/vue-datepicker-next/blob/main/README.zh-CN.md)
 
 > A Datepicker Component For Vue3
 
 ![tests](https://github.com/mengxiong10/vue-datepicker-next/actions/workflows/tests.yml/badge.svg)
-<a href="https://www.npmjs.com/package/vue-datepicker-next">
-<img src="https://img.shields.io/npm/v/vue-datepicker-next.svg" alt="npm">
+<a href="https://www.npmjs.com/package/@jobinsjp/vue3-datepicker">
+<img src="https://img.shields.io/npm/v/@jobinsjp/vue3-datepicker.svg" alt="npm">
 </a>
 <a href="LICENSE">
 <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT">
@@ -21,15 +23,15 @@
 ## Install
 
 ```bash
-$ npm install vue-datepicker-next --save
+$ npm install @jobinsjp/vue3-datepicker --save
 ```
 
 ## Usage
 
 ```html
 <script>
-  import DatePicker from 'vue-datepicker-next';
-  import 'vue-datepicker-next/index.css';
+  import DatePicker from '@jobinsjp/vue3-datepicker';
+  import '@jobinsjp/vue3-datepicker/index.css';
 
   export default {
     components: { DatePicker },
@@ -66,7 +68,7 @@ $namespace: 'xmx'; // change the 'mx' to 'xmx'. then <date-picker prefix-class="
 $default-color: #555;
 $primary-color: #1284e7;
 
-@import '~vue-datepicker-next/scss/index.scss';
+@import '~@jobinsjp/vue3-datepicker/scss/index.scss';
 ```
 
 ## Internationalization
@@ -76,10 +78,10 @@ you can import a locale file.
 Once you import a locale, it becomes the active locale.
 
 ```js
-import DatePicker from 'vue-datepicker-next';
-import 'vue-datepicker-next/index.css';
+import DatePicker from '@jobinsjp/vue3-datepicker';
+import '@jobinsjp/vue3-datepicker/index.css';
 
-import 'vue-datepicker-next/locale/zh-cn';
+import '@jobinsjp/vue3-datepicker/locale/zh-cn';
 ```
 
 You can also override some of the default locale by `lang`.

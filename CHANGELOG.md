@@ -1,3 +1,45 @@
+## [1.0.2-jobins-02](https://github.com/mengxiong10/vue-datepicker-next/compare/v1.0.2...v1.0.2-jobins-02) (2022-07-21)
+
+
+### Bug Fixes
+
+* build for jobins ([52568f8](https://github.com/mengxiong10/vue-datepicker-next/commit/52568f85df41f76975db1adb116f1b4903ccc264))
+
+
+### Features
+
+* holiday feature ([9684363](https://github.com/mengxiong10/vue-datepicker-next/commit/9684363068e58340ee3cd45d56785111b0fdc5f8))
+
+
+
+## [1.0.2-jobins-01](https://github.com/mengxiong10/vue-datepicker-next/compare/v1.0.2...v1.0.2-jobins-01) (2022-07-21)
+
+
+### Bug Fixes
+
+* build for jobins ([52568f8](https://github.com/mengxiong10/vue-datepicker-next/commit/52568f85df41f76975db1adb116f1b4903ccc264))
+
+
+### Features
+
+* holiday feature ([9684363](https://github.com/mengxiong10/vue-datepicker-next/commit/9684363068e58340ee3cd45d56785111b0fdc5f8))
+
+
+
+## [1.0.2-jobins-01](https://github.com/mengxiong10/vue-datepicker-next/compare/v1.0.2...v1.0.2-jobins-01) (2022-07-21)
+
+
+### Bug Fixes
+
+* build for jobins ([52568f8](https://github.com/mengxiong10/vue-datepicker-next/commit/52568f85df41f76975db1adb116f1b4903ccc264))
+
+
+### Features
+
+* holiday feature ([9684363](https://github.com/mengxiong10/vue-datepicker-next/commit/9684363068e58340ee3cd45d56785111b0fdc5f8))
+
+
+
 ## [1.0.2](https://github.com/mengxiong10/vue-datepicker-next/compare/v1.0.1...v1.0.2) (2021-12-16)
 
 
