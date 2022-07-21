@@ -1,3 +1,17 @@
+## [1.0.2-jobins-03](https://github.com/mengxiong10/vue-datepicker-next/compare/v1.0.2...v1.0.2-jobins-03) (2022-07-21)
+
+
+### Bug Fixes
+
+* active class was missing when the day is a holiday. ([35ff28f](https://github.com/mengxiong10/vue-datepicker-next/commit/35ff28ff22e711598cdd3b30c1366c647a064c92))
+
+
+### Features
+
+* holiday feature ([9684363](https://github.com/mengxiong10/vue-datepicker-next/commit/9684363068e58340ee3cd45d56785111b0fdc5f8))
+
+
+
 ## [1.0.2-jobins-02](https://github.com/mengxiong10/vue-datepicker-next/compare/v1.0.2...v1.0.2-jobins-02) (2022-07-21)
 
 
